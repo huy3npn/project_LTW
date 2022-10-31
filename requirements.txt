@@ -17,7 +17,6 @@ django-debug-toolbar==3.7.0
 django-extensions==3.2.1
 djangorestframework==3.14.0
 hiredis==2.0.0
-
 hyperlink==21.0.0
 idna==3.4
 incremental==21.3.0
